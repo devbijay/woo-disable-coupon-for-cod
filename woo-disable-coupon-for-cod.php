@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Woocommerce Disable Coupon For COD Orders Order
+Plugin Name: Woocommerce Disable Coupon For COD Orders
 Plugin URI: https://github.com/devbijay/woo-disable-coupon-for-cod
-Description: This plugin does something cool.
+Description: This plugin is designed to disable the use of coupons when customers select Cash on Delivery (COD) as their payment method in WooCommerce
 Version: 1.0
-Author: John Doe
-Author URI: https://example.com
+Author: Bijay Nayak
+Author URI: https://bijay.me
 */
 
 // Check if WooCommerce is installed and activated
